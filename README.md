@@ -65,8 +65,8 @@ Subtraction is overrated anyway.
 ## 📫 How to Reach Me (Please send help)
 
 [![Email](https://img.shields.io/badge/-Email%20Me%20(Pls%20Help)-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catpushmain@example.com)
-[![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn%20(Empty)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/catpushmain)
-[![Twitter](https://img.shields.io/badge/-My%20Tweets%20(Mostly%20Cats)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/catpushmain)
+[![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn%20(Empty)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Twitter](https://img.shields.io/badge/-My%20Tweets%20(Mostly%20Cats)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 ---
 
